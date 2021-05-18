@@ -21,8 +21,8 @@ Use `SPACE` or `LEFT MOUSE BUTTON` to fire rocket
 
 ## Screen Shots
 ![Breakout Level 1](/Screenshots/Level_001.png?raw=true "Level 1")
-![Breakout Level 2](/Screenshots/Level_001.png?raw=true "Level 2")
-![Breakout Level 3](/Screenshots/Level_001.png?raw=true "Level 3")
-![Breakout Level 4](/Screenshots/Level_001.png?raw=true "Level 4")
-![Breakout Level 5](/Screenshots/Level_001.png?raw=true "Level 5")
-![Breakout Level 6](/Screenshots/Level_001.png?raw=true "Level 6")
+![Breakout Level 2](/Screenshots/Level_002.png?raw=true "Level 2")
+![Breakout Level 3](/Screenshots/Level_003.png?raw=true "Level 3")
+![Breakout Level 4](/Screenshots/Level_004.png?raw=true "Level 4")
+![Breakout Level 5](/Screenshots/Level_005.png?raw=true "Level 5")
+![Breakout Level 6](/Screenshots/Level_006.png?raw=true "Level 6")
