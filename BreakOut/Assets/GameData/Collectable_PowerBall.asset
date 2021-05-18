@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58b7c98fb93a8f0428fb5ae1cc64ee29, type: 3}
+  m_Name: Collectable_PowerBall
+  m_EditorClassIdentifier: 
+  CollectableIconSprite: {fileID: 21300000, guid: 851424f8c041f1d4f98ed162aaace5ef, type: 3}
+  CollectableSprite: {fileID: 21300000, guid: 8166c3ea70bd31f40ba0105dea876223, type: 3}
+  CollectableDuration: 5
+  CollectableDropSpeed: 300
+  TheColor: {r: 1, g: 0, b: 0, a: 0}

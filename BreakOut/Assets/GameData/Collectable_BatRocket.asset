@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b7bae7f465b1f54183de710921a9f46, type: 3}
+  m_Name: Collectable_BatRocket
+  m_EditorClassIdentifier: 
+  CollectableIconSprite: {fileID: 21300000, guid: af92b48a1c77a2c43ad73b3f8d061b58, type: 3}
+  CollectableSprite: {fileID: 21300000, guid: 5d79d355d997e5940a59276476e796e5, type: 3}
+  CollectableDuration: 5
+  CollectableDropSpeed: 300
+  RocketSpeed: 800
